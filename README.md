@@ -6,12 +6,12 @@
 
 ## 🔗 Linki
 
-- 📁 Repozytorium: [LINK_DO_TWOJEGO_REPO]
-- 🌐 GitHub Pages: [LINK_DO_STRONY_JEŚLI_WŁĄCZONE]
+- 📁 Repozytorium: [https://github.com/GoreckiJakub68358/zad3_motyw](https://github.com/GoreckiJakub68358/zad3_motyw)
+- 🌐 GitHub Pages: [https://goreckijakub68358.github.io/zad3_motyw](https://goreckijakub68358.github.io/zad3_motyw)
 
 ## 📋 Opis projektu
 
-Głównym celem tego zadania było pokazanie, że ta sama struktura HTML 
+Głównym celem tego zadania jest pokazanie, że ta sama struktura HTML 
 może prezentować się zupełnie inaczej w zależności od podłączonego 
 arkusza stylów CSS. 
 
