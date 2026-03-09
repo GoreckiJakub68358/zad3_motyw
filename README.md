@@ -33,8 +33,6 @@ Projekt zawiera dwa niezależne motywy: **Czerwony** (domyślny) oraz **Zielony*
 
 ## 🎨 Porównanie motywów
 
-## 🎨 Porównanie motywów
-
 | Cecha | Motyw Czerwony (`red.css`) | Motyw Zielony (`green.css`) |
 | :--- | :--- | :--- |
 | **Kolor główny** | `#c0392b` (Crimson Red) | `#2e8b57` (SeaGreen) |
@@ -45,6 +43,7 @@ Projekt zawiera dwa niezależne motywy: **Czerwony** (domyślny) oraz **Zielony*
 | **Interakcja kontenera** | Delikatny cień w `.container` | Rozświetlenie (`box-shadow` neonowy) |
 | **Zdjęcie profilowe** | Okrągłe (`border-radius: 50%`) | Zaokrąglony kwadrat (`border-radius: 25%`) |
 | **Przyciski kontaktowe** | Zaokrąglone (20px) | Prostokątne z lekkim łukiem (10px) |
+
 ## 📝 Changelog (Zadanie 3)
 
 ### v2.0 – Setup
@@ -62,8 +61,3 @@ Projekt zawiera dwa niezależne motywy: **Czerwony** (domyślny) oraz **Zielony*
 ### v2.3 – Final Check
 - Weryfikacja domyślnego podłączenia `red.css`.
 - Testowanie poprawności wyświetlania obu motywów.
-
-## 👤 Autor
-
-**Jakub Górecki**  
-Numer albumu: [TWÓJ_NUMER_ALBUMU]
